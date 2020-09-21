@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.io.*;
-public class Main{
+public class Possiblewords{
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         String word = input.nextLine(); //fixer.fiber,filter,fixer
