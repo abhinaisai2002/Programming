@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Main{
+public class Userid{
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter First name : ");
