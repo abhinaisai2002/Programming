@@ -38,8 +38,5 @@ public class Areas {
         Rectangle r = new Rectangle(4,6);
         Triangle t = new Triangle(3,4,5);
         Circle c = new Circle(1);
-        r.area();
-        t.area();
-        c.area();
     }
 }
