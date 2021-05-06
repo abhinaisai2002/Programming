@@ -10,6 +10,5 @@ public class Dice {
             if(dice1 == dice2)
                 count++;
         }
-        System.out.println("Total no.of doubles : "+count);
     } 
 }
